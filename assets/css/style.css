@@ -1,0 +1,25 @@
+body {
+    background-color: #E0E0E0;
+}
+
+.title {
+    color: #091C3E;
+    margin: 2em;
+}
+
+.table {
+    color: #091C3E;
+}
+
+.first-lign {
+    background-color: #091C3E;
+    color: white;
+}
+
+.light-lign {
+    background-color: #B3B3B3;
+}
+
+.grey-lign {
+    background-color: #808080;
+}
